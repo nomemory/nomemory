@@ -1,10 +1,11 @@
 ### Hi  👋
 
 - 🐝 I enjoy writing **neat** open-source code;
-- 🔭 I’m currently working and looking for help on: [mapneat](https://github.com/nomemory/mapneat), [mockneat](https://github.com/nomemory/mockneat) and [serverneat](https://github.com/nomemory/serverneat);
-- :hearts: I’m currently learning **Kotlin** and [ANTLR](https://www.antlr.org/);
+- Currently:
+  - 🔭 Working and looking for help on: [mapneat](https://github.com/nomemory/mapneat), [mockneat](https://github.com/nomemory/mockneat) and [serverneat](https://github.com/nomemory/serverneat);
+  - :hearts: Learning **Kotlin** and [ANTLR](https://www.antlr.org/);
+  - :satellite: Unraveling the mysteries of Microservice Architectures
 - :flashlight: Love to design and libraries and frameworks;
-- :satellite: Sometimes I Unravel the mysteries of Microservice Architectures
 - :sheep: Fun fact, my family name means Shepperd
 - ☎️ Reach me on **[LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)**
 
