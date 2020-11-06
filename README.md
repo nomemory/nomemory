@@ -8,4 +8,5 @@
 - ☎️ How to reach me: [LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)
 - ⚡ Fun fact: I deleted a production environment once.
 
+![nomemory's github stats](https://github-readme-stats.vercel.app/api?username=nomemory&show_icons=true&hide_border=true)
 
