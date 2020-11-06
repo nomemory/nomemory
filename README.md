@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+* Passionate Java :coffee: Developer
+* Located in Bucharest, Romania
+
 <!--
 **nomemory/nomemory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
