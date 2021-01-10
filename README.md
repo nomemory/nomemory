@@ -3,8 +3,9 @@
 - 🐝 I enjoy writing **neat** open-source code;
 - I am _currently_:
   - 🔭 Working and looking for help on: [mapneat](https://github.com/nomemory/mapneat), [mockneat](https://github.com/nomemory/mockneat), [serverneat](https://github.com/nomemory/serverneat) and [nml](https://github.com/nomemory/neat-matrix-library);
-  - :floppy_disk: Fluent in Java, C, C++ and python.  
-  - :hearts: Learning **Kotlin**.
+  - :floppy_disk: Fluent in Java, C and python;
+  - :computer: Somewhat fluent in C++;
+  - :hearts: Learning **Kotlin**;
   - :satellite: Unraveling the mysteries of Microservice Architectures;
   - 🧠 Studying Linear Algebra for fun, checkout my work so far: [neat-matrix-library](https://github.com/nomemory/neat-matrix-library)
 - :sheep: Fun fact, my family name means Shepperd;
