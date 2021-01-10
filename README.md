@@ -20,7 +20,7 @@
 | [markovneat](https://github.com/nomemory/markovneat) | Java | A Markov Chains implementation for Java. |
 | [neat-matrix-library (nml)](https://github.com/nomemory/neat-matrix-library) | C | nml is a "simple" matrix/numerical analysis library written in pure C. The scope of the library is to highlight various algorithm implementations related to matrices. |
 | [JBVE](https://github.com/nomemory/java-bean-validation-extension) | Java | A library that extends the Java Bean Validation API with additional @Annotations. |
-[ [ansiscape](https://github.com/nomemory/ansiscape) | Java | AnsiScape is a simple Java library that allows the user to format the output of the applications using ANSI Escape Codes. |
+| [ansiscape](https://github.com/nomemory/ansiscape) | Java | AnsiScape is a simple Java library that allows the user to format the output of the applications using ANSI Escape Codes. |
 | [aleph-formatter](https://github.com/nomemory/aleph-formatter) | Java | A simple and efficient StringFormatter that supports named parameters (with a twist). |
 | [nmlib](https://github.com/nomemory/nmlib) | C | A generic C data structures /algortihms library. | 
 | [pysert](https://github.com/nomemory/pysert) | python3 | A python script that can be used to generate data arbitrarly. |
