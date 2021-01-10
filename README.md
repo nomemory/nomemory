@@ -3,13 +3,13 @@
 - 🐝 I enjoy writing **neat** open-source code;
 - I am _currently_:
   - 🔭 Working and looking for help on: [mapneat](https://github.com/nomemory/mapneat), [mockneat](https://github.com/nomemory/mockneat) and [serverneat](https://github.com/nomemory/serverneat), [nml](https://github.com/nomemory/neat-matrix-library);
-  - :hearts: Learning **Kotlin** and [ANTLR](https://www.antlr.org/);
-  - :floppy_disk: Fluent in Java, C, C++ and python.
+  - :floppy_disk: Fluent in Java, C, C++ and python.  
+  - :hearts: Learning **Kotlin**.
   - :satellite: Unraveling the mysteries of Microservice Architectures;
   - 🧠 Studying Linear Algebra for fun, checkout my work so far: [neat-matrix-library](https://github.com/nomemory/neat-matrix-library)
-- :flashlight: Love to design and libraries and frameworks;
-- :sheep: Fun fact, my family name means Shepperd;
-- ☎️ You can reach me on **[LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)**.
+  - :flashlight: Love to design and libraries and frameworks;
+  - :sheep: Fun fact, my family name means Shepperd;
+  - ☎️ You can reach me on **[LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)**.
 
 ### My most relevant repositories
 
