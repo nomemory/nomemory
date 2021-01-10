@@ -7,10 +7,11 @@
   - :hearts: Learning **Kotlin**.
   - :satellite: Unraveling the mysteries of Microservice Architectures;
   - 🧠 Studying Linear Algebra for fun, checkout my work so far: [neat-matrix-library](https://github.com/nomemory/neat-matrix-library)
-  - :flashlight: Love to design and libraries and frameworks;
-  - :sheep: Fun fact, my family name means Shepperd;
-  - ☎️ You can reach me on **[LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)**.
-  - :musical_score: I love music, you can follow me on [Spotify](https://open.spotify.com/user/a3dud6s6igdiphj760chzhpxv?si=0qxv-0yrS9ubDfpX1-5jHw).
+- :sheep: Fun fact, my family name means Shepperd;
+- ☎️ You can reach me on **[LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)**.
+- :musical_score: I love music, you can follow me on [Spotify](https://open.spotify.com/user/a3dud6s6igdiphj760chzhpxv?si=0qxv-0yrS9ubDfpX1-5jHw).
+- I play chess, you can challenge me on [lichess](https://lichess.org/@/thekingislazy).
+
 
 ### My most relevant repositories
 
