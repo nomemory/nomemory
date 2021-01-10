@@ -6,7 +6,7 @@
   - :hearts: Learning **Kotlin** and [ANTLR](https://www.antlr.org/);
   - :floppy_disk: Fluent in Java, C, C++ and python.
   - :satellite: Unraveling the mysteries of Microservice Architectures;
-  - :? Studying Linear Algebra for fun, checkout my work so far: [neat-matrix-library](https://github.com/nomemory/neat-matrix-library)
+  - 🧠 Studying Linear Algebra for fun, checkout my work so far: [neat-matrix-library](https://github.com/nomemory/neat-matrix-library)
 - :flashlight: Love to design and libraries and frameworks;
 - :sheep: Fun fact, my family name means Shepperd;
 - ☎️ You can reach me on **[LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)**.
