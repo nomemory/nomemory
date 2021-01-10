@@ -14,7 +14,7 @@
 
 | Repository | Language | Description |
 | ---------- | -------- | ----------- |
-| [mapneat](https://github.com/nomemory/mapneat) | Kotlin | MapNeat is a JVM library written in Kotlin that provides an easy to use DSL (Domain Specific Language) for transforming JSON to JSON, XML to JSON, POJO to JSON in a declarative way. |
+| [mapneat](https://github.com/nomemory/mapneat) | Kotlin | MapNeat is a JVM library written in Kotlin that provides an easy to use DSL (Domain Specific Language) for transforming JSON to JSON, XML to JSON, POJO to JSON in a declarative way.  |
 | [neat-matrix-library (nml)](https://github.com/nomemory/neat-matrix-library) | C | |nml is a "simple" matrix/numerical analysis library written in pure C. The scope of the library is to highlight various algorithm implementations related to matrices. |
 | [nmlib](https://github.com/nomemory/nmlib) | C | A generic C data structures /algortihms library. | 
 | [pysert](https://github.com/nomemory/pysert) | python3 | A python script that can be used to generate data arbitrarly. |
