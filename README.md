@@ -10,6 +10,7 @@
   - :flashlight: Love to design and libraries and frameworks;
   - :sheep: Fun fact, my family name means Shepperd;
   - ☎️ You can reach me on **[LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)**.
+  - :musical_score: I love music, you can follow me on [Spotify](https://open.spotify.com/user/a3dud6s6igdiphj760chzhpxv?si=0qxv-0yrS9ubDfpX1-5jHw).
 
 ### My most relevant repositories
 
