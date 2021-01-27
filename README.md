@@ -2,12 +2,13 @@
 
 - I enjoy writing _neat_ open-source code;
 - I am _currently_:
+  - I blog on www.andreinc.net 
   - Working and looking for help on: [mapneat](https://github.com/nomemory/mapneat), [mockneat](https://github.com/nomemory/mockneat), [serverneat](https://github.com/nomemory/serverneat) and [nml](https://github.com/nomemory/neat-matrix-library);
   - Fluent in Java, C and python;
   - Somewhat fluent in C++;
   - Learning **Kotlin**;
   - Unraveling the mysteries of Microservice Architectures;
-  - Studying Linear Algebra for fun, checkout my work so far: [neat-matrix-library](https://github.com/nomemory/neat-matrix-library)
+  - Studying Linear Algebra for fun, checkout my work so far: [neat-matrix-library](https://github.com/nomemory/neat-matrix-library) . Checkout my articles on this topic: https://www.andreinc.net/categories/#linear-algebra
 - :sheep: Fun fact, my family name means Shepperd;
 - You can reach me on **[LinkedIn](https://www.linkedin.com/in/andrei-n-ciobanu-50708611/)**.
 - I love music, you can follow me on [Spotify](https://open.spotify.com/user/a3dud6s6igdiphj760chzhpxv?si=0qxv-0yrS9ubDfpX1-5jHw).
