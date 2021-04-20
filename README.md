@@ -36,3 +36,6 @@
 ### My stats
 ![nomemory's github stats](https://github-readme-stats.vercel.app/api?username=nomemory&show_icons=true&hide_border=true)
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/>
