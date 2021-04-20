@@ -37,5 +37,5 @@
 ![nomemory's github stats](https://github-readme-stats.vercel.app/api?username=nomemory&show_icons=true&hide_border=true)
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nomemory"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nomemory" with="200px"
 />
