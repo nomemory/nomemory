@@ -1,4 +1,4 @@
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nomemory&branding=false&show-avatar=false">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nomemory&branding=false&show-avatar=false&show-header=false">
 
 ### Hi  👋
 
