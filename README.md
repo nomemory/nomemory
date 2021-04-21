@@ -36,4 +36,4 @@
 ### My stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=nomemory&show_icons=true&hide_border=true" width="550px">
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nomemory" width="550px" />
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nomemory" width="750px" />
