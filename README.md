@@ -1,5 +1,3 @@
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nomemory&branding=false&show-avatar=false&show-header=false">
-
 ### Hi  👋
 
 - I enjoy writing _neat_ open-source code;
