@@ -34,6 +34,6 @@
 | [jasuggest](https://github.com/nomemory/jasuggest) | Java | An auto-suggest library using a Trie as the underlying implementation. |
 
 ### My stats
-![nomemory's github stats](https://github-readme-stats.vercel.app/api?username=nomemory&show_icons=true&hide_border=true)
 
+<img src="https://github-readme-stats.vercel.app/api?username=nomemory&show_icons=true&hide_border=true" width="550px">
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nomemory" width="550px" />
