@@ -32,8 +32,3 @@
 | [pysert](https://github.com/nomemory/pysert) | python3 | A python script that can be used to generate data arbitrarly. |
 | [c-generic-pqueue](https://github.com/nomemory/c-generic-pqueue) | C | A generic PQueue implementations using binary heaps. |
 | [jasuggest](https://github.com/nomemory/jasuggest) | Java | An auto-suggest library using a Trie as the underlying implementation. |
-
-### My stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nomemory&show_icons=true&hide_border=true" width="550px">
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nomemory" width="750px" />
