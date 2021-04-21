@@ -1,3 +1,5 @@
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
+
 ### Hi  👋
 
 - I enjoy writing _neat_ open-source code;
