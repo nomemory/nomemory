@@ -1,4 +1,4 @@
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nomemory">
 
 ### Hi  👋
 
