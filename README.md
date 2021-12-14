@@ -23,6 +23,8 @@
 | [serverneat](https://github.com/nomemory/serverneat) | Kotlin |  A Kotlin DSL / Server for creating mock/stub servers - using MockNeat for generating data. |
 | [markovneat](https://github.com/nomemory/markovneat) | Java | A Markov Chains implementation for Java. |
 | [neat-sample-database-generators](https://github.com/nomemory/neat-sample-databases-generators) | Java | Neat java scripts (!not javascript) to auto-generate data for various sample databases. |
+| [open-addressing-java-maps](https://github.com/nomemory/open-addressing-java-maps) | Java | Open Addressing `Map<K,V>` implemented in Java |
+| [lc3-vm](https://github.com/nomemory/lc3-vm) | C | A simple virtual machine written in C. |
 | [neat-matrix-library (nml)](https://github.com/nomemory/neat-matrix-library) | C | nml is a "simple" matrix/numerical analysis library written in pure C. The scope of the library is to highlight various algorithm implementations related to matrices. |
 | [neat-chess](https://github.com/nomemory/neat-chess) | Java | A Java UCI Protocol implementation - call chess engines from Java |
 | [JBVE](https://github.com/nomemory/java-bean-validation-extension) | Java | A library that extends the Java Bean Validation API with additional @Annotations. |
